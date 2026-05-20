@@ -22,7 +22,7 @@ Program ini bertema Sistem Manajemen Inventaris dan Keuangan (UMKM) yang diranca
 | catat_penjualan() | Mencatat transaksi keluar, mengurangi stok, dan menghitung omset serta modal terjual | Andra |
 | catat_pengeluaran() | Mencatat biaya operasional toko lainnya ke dalam histori transaksi | Andra |
 | laporan_laba_rugi() | Menghitung laba bersih dari selisih omset, modal, dan beban operasional | Andra |
-| cari_barang_rekursif() | Mencari data barang spesifik menggunakan algoritma rekursi berdasarkan kode atau nama | Fadil |
+| cari_barang() | Mencari data barang spesifik menggunakan algoritma rekursi berdasarkan kode atau nama | Fadil |
 | edit_barang() | Mengubah informasi nama atau harga barang yang sudah terdaftar di sistem | Fadil |
 | hapus_barang() | Menghapus data barang tertentu secara permanen dari database toko | Fadil |
 | simpan_dan_muat() | Menangani penyimpanan data ke file JSON agar data tidak hilang saat program ditutup | Bersama |
